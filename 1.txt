@@ -1,1 +1,16 @@
-ooo
+create directory
+cd
+clone
+cd
+init
+vim
+add
+commit
+git tag v1.0
+git tag 
+git show v1.0
+git tag -l v1.*
+git fetch
+git remote add tag 
+git push tag
+git push paste url
